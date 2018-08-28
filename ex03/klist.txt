@@ -1,0 +1,7 @@
+redentials cache: API:B3E07C57-1D70-4D74-B4FA-517BAA5F1C6C
+        Principal: aalouet@42.FR
+
+		  Issued                Expires               Principal
+		  Aug 27 16:54:37 2018  Sep  3 16:54:37 2018  krbtgt/42.FR@42.FR
+		  Aug 27 16:54:38 2018  Sep  3 16:54:37 2018  ldap/ldap-proxy.42.fr@42.FR
+		  Aug 27 16:54:38 2018  Sep  3 16:54:37 2018  HTTP/student-storage-1.42.fr@42.FR
